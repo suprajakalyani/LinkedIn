@@ -1,0 +1,357 @@
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<script src='https://kit.fontawesome.com/a076d05399.js'></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+	</head>
+	<body>
+ 
+ <div class="row"  style="background-color: #2b337f;">
+
+<img src="https://img.icons8.com/color/48/000000/linkedin.png" class=" imgicon">
+
+<input type="text" placeholder=" Search" class="tag">
+<i class='fas fa-home iconsss'><h6 class="icontext">home</h6></i>
+<i class="fa fa-users  iconsss" aria-hidden="true" ><h6 class="icontext">My Network</h6></i>
+<i class='fas fa-briefcase iconsss'><h6 class="icontext">Jobs</h6></i>
+<i class="far fa-comment-alt iconsss"><h6 class="icontext">Messaging</h6></i>
+<i class='fas fa-bell iconsss'><h6 class="icontext">Notifications</h6></i>
+<img class="img-circle " style="margin-top: 5px;margin-left:40px;" src="https://thedispatch.blob.core.windows.net/thedispatchimages/2020/02/tom-jerry38992323_20142100346.jpg"><h6 style="margin-left:-35px;color:white;">Me<i class="fas fa-caret-down" style="margin-top:40px;padding-left:20px;color:white;"></i></h6>
+
+
+
+<i class="fas fa-th iconsss"><h6 class="icontext">Work<i class="fas fa-caret-down" style="padding-left: 15px;"></i></h6></i>
+<p style="color:d8db51;padding-left:35px;margin-top: 5px;">Try Premium Free<br> 
+	for 1 Month</p>
+
+</div>
+
+
+<!---first row-->
+
+<div class="row bgcolor"></div>
+
+<!---second row-->
+	<div class="row secondrow">
+
+
+    <div class="container-fluid">
+    <div class="row">
+
+<div class="col-10"><img src="https://thedispatch.blob.core.windows.net/thedispatchimages/2020/02/tom-jerry38992323_20142100346.jpg" class="rounded-circle" style=" width:200;border-radius:50%;margin-top:-90px;"></div>
+<div class="col"><i class="fas fa-pen" style="padding-left: 65px;color:#22b7bf;"></i></div>
+</div>
+
+<div class="row">
+<!--firstcol-->
+<div class="col-8">
+
+<div class="row" style="margin-left:20px;"><h3>maryam mohamed</h3></div>
+<div class="row" style="margin-left:20px;"><h6>Student at Information Institute (ITI)</h6></div>
+<div class="row" style="margin-left:20px;">Egypt</div>
+<div class="row"  style="margin-left:20px;margin-top:20px;"><select class="tag">
+  <option value="-1">    Select current role</option></select><input type="text" class="tag1" placeholder="  More..."></div>
+</div>
+
+<!--seconcol-->
+
+<div class="col-4">
+
+<div class="row" style="background-color:#c1bbbb;height:30px;width:30px;border-radius:5px;"><h6 style="padding-left:50px;">freelancer</h6></div><br>
+<div class="row"><img class=" lazyloaded" src="http://www.imia-medinfo.org/new2/sites/default/files/imagepicker/44/ITIlogo.png" data-src="http://www.imia-medinfo.org/new2/sites/default/files/imagepicker/44/ITIlogo.png" alt="Image" width="30" height="30"><p style="padding-left:20px;">Information Technology Institute (ITI)</p></div>
+<div class="row" ><i class='far fa-address-book' style='font-size:24px'></i> <h6 style="padding-left:20px;">See contact info</h6></div><br>
+<div class="row"><i class="fa fa-users" aria-hidden="true" ></i><h6 style="padding-left:20px;">See connections (500+)</h6></div>
+</div>
+
+
+
+</div>
+
+
+<hr style="width:100%;text-align:left;margin-left:0 border-style: inset;border-width: 3px;">
+<!--secondrow-->
+<div class="row" style="margin-left:20px;margin-right:20px;">
+  Front end web development involves many different technologies, and the landscape is constantly changing. In this course you will learn the basics of all of the different aspects of front end web development, and how to hone and keep your skills up to date.Front end web development is anything that users can view and interact with on the web. Front end web dev is mostly accomplished through HTML, CSS, and JavaScript.
+
+
+</div>
+
+<hr style="height:1px;width:100%;"> 
+
+<div class="row">
+<h5 style="padding-left:-50px;margin-left:450px;color:#22b7bf;">Show More<i class="fas fa-angle-down" style="padding-left: 15px;"></i></h5>
+</div>
+
+
+
+
+
+
+</div>
+
+	</div>
+
+
+
+
+
+
+
+
+
+
+
+
+	<!---third row-->
+
+
+
+	<div class="row thirdrow">
+		
+    
+		</div>
+
+
+		<!--fourthrow-->
+
+    <div class="row fourthrow">
+
+    <h4 style="color:white;padding-left:30px;">Your Dashboard</h4>
+   <h6 class="secondmaintag">Private to you</h6>
+   <div class="row color">
+   <div class="col-md-4" style="border:1px solid black;">
+   	<b style="color:#22b7bf;">68</b><br>
+   		<p>Who viewed your profile</p>
+   </div>
+
+   <div class="col-md-4" style="border:1px solid black;">
+   	<b style="color:#22b7bf;">0</b><br>
+   		<p>Article views</p>
+   </div>
+
+   <div class="col-md-4" style="border:1px solid black;">
+   	<b style="color:#22b7bf;">41</b><br>
+   		<p>Search appearences</p>
+   </div>
+   </div>
+
+   <div class="row color2">
+    <i class='far fa-user' style='font-size:24px;padding-top:10px;padding-left:15px;'></i>
+    <h5 style="padding-top:10px;color:black;font-weight:bold;padding-left:20px;">Carrier advice</h5>
+    <h5 style="padding-top:40px;color:black;margin-left:-127px;"> Participate in the career advice platform : <b1>Off</b1></h5>  
+    <h6 style="padding-top:70px;color:black;margin-left:-410px;">Get career advice by conversing with other Linkdin users who are leaders in their fields</h6>
+
+    <hr style="height: 1px; background-color:black;width:90%;margin-top:100px;margin-left:-620px;">
+<i class="fa fa-briefcase" style="font-size:24px;padding-left:5px;margin-top:-50px;margin-left:20px;"></i>
+ <h5 style="margin-top:-50px;margin-left:15px;font-weight:bold;">   Carrier interest</h5>
+ <h5 style="margin-top:-25px;margin-left:-140px;"> Let recruiters know you're open :<b2>On</b2></h5>
+ <h6 style="margin-left:-325px;">Choose the types of opportunities you'd like to be connected with</h6>
+
+   </div>
+
+
+
+    </div>
+  <!---fifthrow-->
+
+ <div class="row fifthrow">
+   <div class="row"  style="margin-top:-15px;margin-left:20px;"><h3>Experience</h3><br></div>
+<div class="row" style="margin-top:20px;">
+   <div class="col-1" style="background-color:#c1bbbb;height:50px;margin-left:-93px;width:10px;border-radius:5px;"></div>
+   <div class="col-xl"> <h6>UI Developer</h6></div>
+   <div class="col-1"><i class="fas fa-plus" style="font-size:24px;margin-left:405px;color:#22b7bf;"></i></div>
+   </div>
+
+<div class="row" style="margin-top:-10px;margin-left:75px;">
+<div class="col-xl"> <h6>freelancer</h6></div>
+   <div class="col-1"><i class="fas fa-pen" style="font-size:24px;margin-left:405px;color:#22b7bf;"></i></div>
+
+</div>
+
+<div class="row" style="margin-top:20px;margin-left:-535px;color:#c1bbbb;">
+
+<p>May 2018 - Present 10 mos<br>
+Egypt</p>
+</div>
+
+<div class="row" style="margin-top:70px;margin-left:-253px;">
+<p style="color:#22b7bf;">Show 3 more experiences<i class="fas fa-angle-down" style="padding-left: 15px;"></i></p></div>
+<hr style="height:1px;padding-top:340px;width:100%;">
+
+
+
+
+
+<div class="row"  style="margin-top:-330px;margin-left:20px;"><h3>Education</h3><br>
+
+<div class="row" style="margin-top:40px;">
+   <div class="col-1"><img class=" lazyloaded" src="http://www.imia-medinfo.org/new2/sites/default/files/imagepicker/44/ITIlogo.png" data-src="http://www.imia-medinfo.org/new2/sites/default/files/imagepicker/44/ITIlogo.png" alt="Image" width="30" height="30" style="margin-left:-93px;"></div>
+   <div class="col-7" > <h6 style="margin-left:-70px;">Information Technology Institute(ITI)</h6></div>
+   <div class="col-1"><i class="fas fa-plus" style="font-size:24px;margin-left:405px;color:#22b7bf;"></i></div>
+ </div>
+
+<div class="row" style="margin-top:-80px;">
+<div class="col-xl"> <h6 style="margin-left:110px;color:#c1bbbb;">Enterprise & Web Apps (Microsoft)Track<br>2018-2019</h6></div>
+   <div class="col-1"><i class="fas fa-pen" style="font-size:24px;margin-left:290px;color:#22b7bf;"></i></div></div>
+
+
+   <hr style="height:1px;width:100%;margin-top:-85px;margin-left:-20px;">
+
+</div>
+
+<div class="row"  style="margin-top:-150px;margin-left:20px;"><h3>Licences & Certifications</h3>
+  <div class="row" style="margin-top:40px;">
+  <div class="col-1" style="background-color:#c1bbbb;height:50px;margin-left:-293px;padding:25px;width:20px;"></div>
+  <div class="col-7" > <h6 style="margin-left:30px;">Adobe Photoshop C S6</h6></div>
+  <div class="col-1"><i class="fas fa-plus" style="font-size:24px;margin-left:575px;color:#22b7bf;"></i></div>
+</div>
+
+<div class="row" style="margin-top:-20px;">
+<div class="col-xl"> <h6 style="margin-left:110px;color:#c1bbbb;">graphics academy<br><br><p style="color:#22b7bf;">See Credential</p></h6></div>
+   <div class="col-1"><i class="fas fa-pen" style="font-size:24px;margin-left:370px;color:#22b7bf;"></i></div></div>
+   <p style="color:#22b7bf;margin-left:-670px;margin-top:50px;">Show more<i class="fas fa-angle-down" style="padding-left: 15px;"></i></p></div>
+   <hr style="height:1px;width:100%;margin-top:-10px;margin-left:-3px;">
+
+</div>
+ </div>
+
+<!--sixth row-->
+
+
+<div class=" sixthrow">
+   <div class="row"  style="margin-top:-20px;margin-left:20px;"><h3>Skills & Endorsements</h3><br></div>
+   <div class="row"  style="margin-top:-30px;margin-left:890px;"><h5>Add a new skill<i class="fas fa-pen" style="padding-left: 15px;color:#22b7bf;"></i></h5><br></div>
+   <div class="row"  style="margin-top:10px;margin-left:20px;"><h5><b>CSS</b>  17</h5><br></div>
+
+   <!-- <div class="row"><img class=" lazyloaded" src="http://www.imia-medinfo.org/new2/sites/default/files/imagepicker/44/ITIlogo.png" data-src="http://www.imia-medinfo.org/new2/sites/default/files/imagepicker/44/ITIlogo.png" alt="Image" width="30" height="30" style="margin-left:0px;margin-top:-105px;">Information Technology Institute(ITI)</h6></div>-->
+
+
+<div class="row" style="margin-top:15px;">
+   <div class="col"><img class=" lazyloaded" src="http://www.imia-medinfo.org/new2/sites/default/files/imagepicker/44/ITIlogo.png" data-src="http://www.imia-medinfo.org/new2/sites/default/files/imagepicker/44/ITIlogo.png" alt="Image" width="30" height="30" style="margin-left:20px;"></div>
+   <div class="col-12" > <h6 style="margin-left:70px;margin-top:-20px;">Endorsed by 2 of maryam's colleagues at TIEC</h6></div></div>
+
+
+   <hr style="height:1px;width:100%;margin-top:15px;margin-left:3px;"> 
+<h5 style="margin-left:450px;color:#22b7bf;margin-top:-10px;">Show More<i class="fas fa-angle-down" style="padding-left: 15px;"></i></h5>
+
+  </div>
+
+<!---seventhrow-->
+
+<div class="row  seventhrow">
+<div class="row" style="margin-top:10px;margin-left:30px;"><h3>Accomplishments</h3></div>
+
+
+
+<div class="row" style="margin-top:-90px;margin-left:20px;">
+<div class="col-sm-1"><h6 style="color:#7ae8d9;margin-top:15px;"><h1 style="color:#22b7bf;"><b>8</b></h1></div>
+  <div class="col-xl"><h6 style="margin-top:25px;color:#22b7bf;"><b>Courses</b></h6>
+    That post landed on the first page of google (for LinkedIn summary examples) within days of publishing and though I had no idea about SEO at the time, it turns out that almost everyone, millions of people in fact, were searching for exactly this kind of ‘lead by example’ advice back then and guess what? They’re still searching for it today.
+  </div>
+<div class="col-sm-1"><i class="fas fa-angle-down" style="margin-top:25px;margin-left:25px;"></i></div>
+</div>
+
+
+<div class="row" style="margin-top:-70px;margin-left:20px;">
+<div class="col-sm-1"><h6 style="color:#7ae8d9;margin-top:15px;"><h1 style="color:#22b7bf;"><b>4</b></h1></div>
+  <div class="col-xl"><h6 style="margin-top:25px;color:#22b7bf;"><b>Organizations</b></h6>
+    unoion BFCI MSP Tech Club Benha university Technoship Benha university positive student at Benha university.
+  </div>
+<div class="col-sm-1"><i class="fas fa-angle-down" style="margin-top:25px;margin-left:98px;"></i></div>
+</div>
+
+
+<div class="row" style="margin-top:-70px;margin-left:20px;">
+<div class="col-sm-1"><h6 style="color:#7ae8d9;margin-top:15px;"><h1 style="color:#22b7bf;"><b>3</b></h1></div>
+  <div class="col-xl"><h6 style="margin-top:25px;color:#22b7bf;"><b>Projects</b></h6>
+    Data Base Project System Analysis Web Design Projects.
+  </div>
+<div class="col-sm-1"><i class="fas fa-angle-down" style="margin-top:25px;margin-left:282px;"></i></div>
+</div>
+
+
+<div class="row" style="margin-top:-70px;margin-left:20px;">
+<div class="col-sm-1"><h6 style="color:#7ae8d9;margin-top:15px;"><h1 style="color:#22b7bf;"><b>2</b></h1></div>
+  <div class="col-xl"><h6 style="margin-top:25px;color:#22b7bf;"><b>Languages</b></h6>
+    Arabic English
+  </div>
+<div class="col-sm-1"><i class="fas fa-angle-down" style="margin-top:25px;margin-left:420px;"></i></div>
+</div>
+
+
+<div class="row" style="margin-top:-70px;margin-left:20px;">
+<div class="col-sm-1"><h6 style="color:#7ae8d9;margin-top:15px;"><h1 style="color:#22b7bf;"><b>1</b></h1></div>
+  <div class="col-xl"><h6 style="margin-top:25px;color:#22b7bf;"><b>Publication</b></h6>
+    My Portfoilo
+  </div>
+<div class="col-sm-1"><i class="fas fa-angle-down" style="margin-top:25px;margin-left:425px;"></i></div>
+</div>
+
+
+</div>
+
+<!---lastrow-->
+
+
+
+
+<hr style="height:1px;width:100%;margin-top:20px;color:yellow;"> 
+
+<div class="row" style="margin-top:30px;margin-left:90px;"><h1><b>Linked </b></h1><img src="https://img.icons8.com/color/48/000000/linkedin.png">
+</div>
+
+
+<div class="row" style="margin-top:10px;margin-left:90px;">
+ <div class="container-fluid">
+
+<div class="row">
+<div class="col-sm"><h6>About</h6></div>
+<div class="col-sm"><h6>Talent Solutions</h6></div>
+<div class="col-sm"><h6>Community Guidelines</h6></div>
+<div class="col-sm"><h5><img src="https://img.icons8.com/windows/32/000000/help.png" ><b>   Questions?</b></h5></div>
+<div class="col-sm"><h6>Select Language</h6></div>
+</div>
+  
+
+<div class="row">
+<div class="col-sm"><h6>Careers</h6></div>
+<div class="col-sm"><h6>Marketing Solutions</h6></div>
+<div class="col-sm"><h6>Privacy & Terms</h6></div>
+<div class="col-sm"><p style="margin-top:-9px;">Visit our Help Center</p></div>
+<div class="col-sm"><select class="selecttag" style="margin-top:-9px;">
+  <option value="1"><b>English (English)   </b></option></select></div>
+</div>
+
+<div class="row">
+<div class="col"><h6>Advertising</h6></div>
+<div class="col"><h6>Sales Solutions</h6></div>
+<div class="col"><h6>Send feedback</h6></div>
+<div class="col"><h6><i class='fas fa-cog' style='font-size:24px;color:#22b7bf;margin-left:-20px;'></i>  <b>Manage your account and privacy</b></h6></div>
+<div class="col"></div>
+</div>
+  
+<div class="row">
+<div class="col"><h6>Mobile</h6></div>
+<div class="col"><h6>Small Business</h6></div>
+<div class="col"><h6>Safety Center</h6></div>
+<div class="col"><p style="margin-top:-9px;">Go to your Settings</p></div>
+<div class="col"></div>
+</div>
+  
+<div class="row">
+<h6>Linkedin Corporation &copy 2019</h6>
+
+</div>
+
+
+
+</div>
+</div>
+<br><br><br><br>
+	</body
+	</html>
+linkedin.html
+Displaying linkedin.html.
